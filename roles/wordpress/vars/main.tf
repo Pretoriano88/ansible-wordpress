@@ -1,0 +1,5 @@
+wp_db_name = ""
+wp_db_username = ""
+wp_db_password = ""
+wp_db_host = ""
+session_save_path = ""

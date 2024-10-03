@@ -1,7 +1,0 @@
----
-  - name: instalacao Wordpress
-    hosts: localhost
-    become: yes
-    #
-    roles: 
-      - wordpress
